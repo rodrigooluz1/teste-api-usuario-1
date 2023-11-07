@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gaQwH7XR4trfswVwCyg5SbJw6Qp1k6G63cD/BcHvs3wrlNa683enMojyLwM9qR9GCVD+Pl+8yNBOIa0VzA66mg==",
+  "dgSpecHash": "ZLq5wKSM3281TTb8ui5rNtjs2ymy8l/V30oSz5+D9GORGAGijQq+TWVjQnvj2NjL3iWj4uzBzuTFwY3EsbuPzw==",
   "success": true,
-  "projectFilePath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DAL\\APIUsuario.DAL.csproj",
+  "projectFilePath": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario.DAL\\APIUsuario.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

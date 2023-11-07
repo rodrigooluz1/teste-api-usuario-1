@@ -478,11 +478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj",
+      "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario.DTO\\APIUsuario.DTO.csproj",
       "projectName": "APIUsuario.DTO",
-      "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj",
+      "projectPath": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario.DTO\\APIUsuario.DTO.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\obj\\",
+      "outputPath": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",

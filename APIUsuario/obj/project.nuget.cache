@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i1xeU7gTtyeugC7AVP20lr3OA4FEnb9RCbPPN2urN6cwwnri5Hrct8nDxpE6BUO9o4+Q8EYXsMd3YMqWP0k1MA==",
+  "dgSpecHash": "K8/yLen7oo9SWlO36+nDpokdvl26H6gKp/R3gJ+4CxUaRSTtRmU7NgXq+Vzqq3sPsKIF+xYp/lmF35vkx0IXHw==",
   "success": true,
-  "projectFilePath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\APIUsuario.csproj",
+  "projectFilePath": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario\\APIUsuario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodri\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

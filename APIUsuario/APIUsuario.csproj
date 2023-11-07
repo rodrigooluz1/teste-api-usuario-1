@@ -16,4 +16,10 @@
     <ProjectReference Include="..\APIUsuario.BLL\APIUsuario.BLL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

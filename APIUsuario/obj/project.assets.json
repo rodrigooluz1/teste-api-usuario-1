@@ -6406,11 +6406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\APIUsuario.csproj",
+      "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario\\APIUsuario.csproj",
       "projectName": "APIUsuario",
-      "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\APIUsuario.csproj",
+      "projectPath": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario\\APIUsuario.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\obj\\",
+      "outputPath": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6427,8 +6427,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\APIUsuario.BLL.csproj": {
-              "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\APIUsuario.BLL.csproj"
+            "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario.BLL\\APIUsuario.BLL.csproj": {
+              "projectPath": "C:\\RODRIGO\\PROJETOS\\GITHUB_BRANCHES\\teste-api-usuario-1\\APIUsuario.BLL\\APIUsuario.BLL.csproj"
             }
           }
         }

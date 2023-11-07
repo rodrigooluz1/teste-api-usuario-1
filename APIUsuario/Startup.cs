@@ -24,16 +24,19 @@ namespace APIUsuario
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+        private readonly IConfiguration _configuration;
+
+        public Startup(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddCors();
             services.AddControllers();
 
-            //var teste = ConfigurationManager.AppSettings["Secret"];
-
-            var key = Encoding.ASCII.GetBytes("ROD2705OLI1983DA12345LUZ");
+            var key = Encoding.ASCII.GetBytes(_configuration["Secret"]);
 
             services.AddAuthentication(x =>
             {
@@ -56,15 +59,15 @@ namespace APIUsuario
             //services.AddScoped<APIContext>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();
             services.AddScoped<IUsuarioBLL, UsuarioBLL>();
-            services.AddScoped<IUploadService, UploadService>();
+            services.AddScoped<IUploadService, UploadService>();           
 
+            var conn = _configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<APIContext>(options =>
-                    options.UseSqlServer("Server=RODRIGO-NOTE\\SQLEXPRESS;Database=BancoTeste1;User Id=sa;Password=123456;")                
-                );
-            
+                    options.UseSqlServer(conn)                
+            );
+
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())

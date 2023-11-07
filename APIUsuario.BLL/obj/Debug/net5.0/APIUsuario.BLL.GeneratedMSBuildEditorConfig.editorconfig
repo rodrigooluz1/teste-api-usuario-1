@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = APIUsuario.BLL
-build_property.ProjectDir = C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.BLL\
+build_property.ProjectDir = C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario.BLL\
