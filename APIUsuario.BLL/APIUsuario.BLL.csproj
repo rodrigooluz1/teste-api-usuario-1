@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Core" Version="1.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APIUsuario.DAL\APIUsuario.DAL.csproj" />
+    <ProjectReference Include="..\APIUsuario.DTO\APIUsuario.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

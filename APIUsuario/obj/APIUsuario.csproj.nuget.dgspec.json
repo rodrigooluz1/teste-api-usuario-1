@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\APIUsuario.csproj": {}
+  },
+  "projects": {
+    "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\APIUsuario.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\APIUsuario.BLL.csproj",
+        "projectName": "APIUsuario.BLL",
+        "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\APIUsuario.BLL.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DAL\\APIUsuario.DAL.csproj": {
+                "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DAL\\APIUsuario.DAL.csproj"
+              },
+              "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj": {
+                "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DAL\\APIUsuario.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DAL\\APIUsuario.DAL.csproj",
+        "projectName": "APIUsuario.DAL",
+        "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DAL\\APIUsuario.DAL.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj": {
+                "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj",
+        "projectName": "APIUsuario.DTO",
+        "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\APIUsuario.DTO.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\APIUsuario.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\APIUsuario.csproj",
+        "projectName": "APIUsuario",
+        "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\APIUsuario.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\APIUsuario.BLL.csproj": {
+                "projectPath": "C:\\RODRIGO\\PROJETOS\\DOTNET\\API_USUARIO\\APIUsuario\\APIUsuario.BLL\\APIUsuario.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

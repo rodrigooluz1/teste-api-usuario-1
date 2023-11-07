@@ -1,0 +1,12 @@
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\bin\Debug\net5.0\APIUsuario.DTO.deps.json
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\bin\Debug\net5.0\APIUsuario.DTO.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\bin\Debug\net5.0\ref\APIUsuario.DTO.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\bin\Debug\net5.0\APIUsuario.DTO.pdb
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\APIUsuario.DTO.csproj.AssemblyReference.cache
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\APIUsuario.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\APIUsuario.DTO.AssemblyInfoInputs.cache
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\APIUsuario.DTO.AssemblyInfo.cs
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\APIUsuario.DTO.csproj.CoreCompileInputs.cache
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\APIUsuario.DTO.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\ref\APIUsuario.DTO.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DTO\obj\Debug\net5.0\APIUsuario.DTO.pdb

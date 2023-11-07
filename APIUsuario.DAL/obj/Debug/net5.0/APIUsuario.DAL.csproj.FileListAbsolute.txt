@@ -1,0 +1,15 @@
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\bin\Debug\net5.0\APIUsuario.DAL.deps.json
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\bin\Debug\net5.0\APIUsuario.DAL.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\bin\Debug\net5.0\ref\APIUsuario.DAL.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\bin\Debug\net5.0\APIUsuario.DAL.pdb
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.csproj.AssemblyReference.cache
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.AssemblyInfoInputs.cache
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.AssemblyInfo.cs
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.csproj.CoreCompileInputs.cache
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\ref\APIUsuario.DAL.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.pdb
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\bin\Debug\net5.0\APIUsuario.DTO.dll
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\bin\Debug\net5.0\APIUsuario.DTO.pdb
+C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario.DAL\obj\Debug\net5.0\APIUsuario.DAL.csproj.CopyComplete
