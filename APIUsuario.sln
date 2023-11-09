@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIUsuario", "APIUsuario\APIUsuario.csproj", "{78D95AE2-B3D3-4231-A100-8B1F38D2C59C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIUsuario", "APIUsuario\APIUsuario.csproj", "{78D95AE2-B3D3-4231-A100-8B1F38D2C59C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIUsuario.BLL", "APIUsuario.BLL\APIUsuario.BLL.csproj", "{ACA41141-BC06-4991-80ED-54B802B47572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIUsuario.BLL", "APIUsuario.BLL\APIUsuario.BLL.csproj", "{ACA41141-BC06-4991-80ED-54B802B47572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIUsuario.DAL", "APIUsuario.DAL\APIUsuario.DAL.csproj", "{3CE6B63B-8238-4C29-B871-0687AAFB3A92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIUsuario.DAL", "APIUsuario.DAL\APIUsuario.DAL.csproj", "{3CE6B63B-8238-4C29-B871-0687AAFB3A92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIUsuario.DTO", "APIUsuario.DTO\APIUsuario.DTO.csproj", "{AF321800-938E-475F-BD57-A6F9BC3E7E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIUsuario.DTO", "APIUsuario.DTO\APIUsuario.DTO.csproj", "{AF321800-938E-475F-BD57-A6F9BC3E7E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiUsuario.Test", "ApiUsuario.Test\ApiUsuario.Test.csproj", "{37443093-3152-41B8-BECD-71FD275761E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AF321800-938E-475F-BD57-A6F9BC3E7E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF321800-938E-475F-BD57-A6F9BC3E7E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF321800-938E-475F-BD57-A6F9BC3E7E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37443093-3152-41B8-BECD-71FD275761E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37443093-3152-41B8-BECD-71FD275761E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37443093-3152-41B8-BECD-71FD275761E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37443093-3152-41B8-BECD-71FD275761E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
