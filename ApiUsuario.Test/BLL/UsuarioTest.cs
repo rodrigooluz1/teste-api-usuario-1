@@ -22,6 +22,21 @@ namespace ApiUsuario.Test.BLL
             //_usuarioBLL = new UsuarioBLL(_usuarioRepository.Object);
         }
 
+
+        [Fact]
+        public async Task ReturnUserTest()
+        {
+            var user = new UsuarioDTO { Id = 1, email = "teste@teste.com", Nome = "Testerson Silva", senha = "123456", url_foto = "", created_at = DateTime.Now, updated_at = DateTime.Now };
+
+            _usuarioRepository.Setup(repo => repo.GetUsuario(user.Id)).ReturnsAsync(user);
+            _usuarioBLL = new UsuarioBLL(_usuarioRepository.Object);
+
+            var retorno = await _usuarioBLL.RetornaUsuario(user.Id);
+
+            Assert.NotNull(retorno);
+            Assert.Same(retorno, user);
+        }
+
         [Fact]
         public async Task UserListTest()
         {
