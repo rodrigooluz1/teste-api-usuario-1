@@ -1,0 +1,40 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos gerados pelo Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log e cache
+*.log
+*.sqlite
+*.sqlite3
+*.h5
+*.rptproj.user
+
+# Pacotes NuGet
+packages/
+
+# Arquivos de configuração
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+
+# Ferramentas
+_ReSharper*/
+*.resharper*
+[Tt]humbs.db
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+node_modules/

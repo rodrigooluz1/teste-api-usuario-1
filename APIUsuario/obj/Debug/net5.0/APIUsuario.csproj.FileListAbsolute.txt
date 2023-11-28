@@ -69,8 +69,8 @@ C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario\bin\Debug\net5.0\Sy
 C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario\bin\Debug\net5.0\System.Text.Encodings.Web.dll
 C:\RODRIGO\PROJETOS\DOTNET\API_USUARIO\APIUsuario\APIUsuario\bin\Debug\net5.0\System.Text.Json.dll
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\appsettings.Development.json
-C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\appsettings.json
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\APIUsuario.exe
+C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\appsettings.json
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\APIUsuario.deps.json
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\APIUsuario.runtimeconfig.json
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\APIUsuario.runtimeconfig.dev.json
@@ -100,6 +100,10 @@ C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\bin\Debug\net5.0\System.Runtime.Caching.dll
@@ -128,6 +132,7 @@ C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net5.0\APIUsuario.AssemblyInfoInputs.cache
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net5.0\APIUsuario.AssemblyInfo.cs
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net5.0\APIUsuario.csproj.CoreCompileInputs.cache
+C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net5.0\APIUsuario.MvcApplicationPartsAssemblyInfo.cs
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net5.0\APIUsuario.MvcApplicationPartsAssemblyInfo.cache
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net5.0\staticwebassets\APIUsuario.StaticWebAssets.Manifest.cache
 C:\RODRIGO\PROJETOS\GITHUB_BRANCHES\teste-api-usuario-1\APIUsuario\obj\Debug\net5.0\staticwebassets\APIUsuario.StaticWebAssets.xml
